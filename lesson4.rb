@@ -1,0 +1,3 @@
+name = "oosawahiroaki"
+
+puts name
